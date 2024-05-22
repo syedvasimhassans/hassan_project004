@@ -105,7 +105,15 @@
 @media (max-width: 376px) {
   .img-box > img{
     width: 400px;
+    height: 400px;
+  }
+  .img-box > .img1{
+    width: 400px;
     height: 150px;
+  }
+  .img-box > .box-img{
+    width: 400px;
+    height: 110px;
   }
 }
 
